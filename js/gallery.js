@@ -56,8 +56,7 @@ class Renderer {
     image.style.height = height;
     image.style.marginBottom = spacing;
     image.onload = onImageLoad;
-    // image.setAttribute("data-action", "zoom");
-    image.setAttribute("data-zoom", "zoom");
+    image.setAttribute("data-action", "zoom");
 
     if (photo.isCompressed()) {
       // Lazy loading + a compressed image
