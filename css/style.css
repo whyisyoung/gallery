@@ -46,6 +46,18 @@ h3 {
   letter-spacing: 2px;
 }
 
+a {
+  color: #1772d0;
+  /* color: #07889b; */
+  text-decoration: none;
+}
+
+a:focus,
+a:hover {
+  color: #e37222; /* #f09228; */
+  text-decoration: none;
+}
+
 .footer {
   padding-bottom: 32px;
 
@@ -58,7 +70,7 @@ h3 {
   padding-top: 32px;
 }
 
-.links__icon,
+/* .links__icon,
 .links__icon:visited,
 .links__icon:link {
   color: #ccc;
@@ -67,7 +79,7 @@ h3 {
   margin-right: 8px;
   transition: 0.2s color;
   line-height: 24px;
-}
+} */
 
 .links__icon:hover {
   color: #999;
