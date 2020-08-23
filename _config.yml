@@ -22,7 +22,7 @@ spacing: 10
 shuffle: false
 
 # Integer: Number of columns for square or columns
-columns: 4
+columns: 6
 
 # Integer: Max height for rows
 max_height: 400
