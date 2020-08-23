@@ -1,4 +1,94 @@
 {
+  "Lifestyle": [
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Lifestyle/C1A4A8CD-ECB9-4CD3-AD38-3DAA25EB448F-31492-00000F0E5228734D.jpg",
+      "compressed_path": "./photos/Lifestyle/C1A4A8CD-ECB9-4CD3-AD38-3DAA25EB448F-31492-00000F0E5228734D.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/C1A4A8CD-ECB9-4CD3-AD38-3DAA25EB448F-31492-00000F0E5228734D.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Lifestyle/B6F02227-31F6-4E50-968F-6309DC2FB109-31492-00000F102CC0DE28.jpg",
+      "compressed_path": "./photos/Lifestyle/B6F02227-31F6-4E50-968F-6309DC2FB109-31492-00000F102CC0DE28.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/B6F02227-31F6-4E50-968F-6309DC2FB109-31492-00000F102CC0DE28.placeholder.jpg"
+    },
+    {
+      "width": 3000,
+      "height": 3000,
+      "path": "./photos/Lifestyle/DSC_1436_new.jpg",
+      "compressed_path": "./photos/Lifestyle/DSC_1436_new.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/DSC_1436_new.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 4928,
+      "path": "./photos/Lifestyle/DSC_9993.jpg",
+      "compressed_path": "./photos/Lifestyle/DSC_9993.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/DSC_9993.placeholder.jpg"
+    },
+    {
+      "width": 4928,
+      "height": 3264,
+      "path": "./photos/Lifestyle/DSC_9992.jpg",
+      "compressed_path": "./photos/Lifestyle/DSC_9992.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/DSC_9992.placeholder.jpg"
+    },
+    {
+      "width": 3165,
+      "height": 2038,
+      "path": "./photos/Lifestyle/DSC_0430.jpg",
+      "compressed_path": "./photos/Lifestyle/DSC_0430.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/DSC_0430.placeholder.jpg"
+    },
+    {
+      "width": 2272,
+      "height": 2272,
+      "path": "./photos/Lifestyle/DSC_9549-Edit-2-2.jpg",
+      "compressed_path": "./photos/Lifestyle/DSC_9549-Edit-2-2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/DSC_9549-Edit-2-2.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 4928,
+      "path": "./photos/Lifestyle/DSC_0400.jpg",
+      "compressed_path": "./photos/Lifestyle/DSC_0400.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/DSC_0400.placeholder.jpg"
+    },
+    {
+      "width": 2481,
+      "height": 2481,
+      "path": "./photos/Lifestyle/DSC_9552.jpg",
+      "compressed_path": "./photos/Lifestyle/DSC_9552.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/DSC_9552.placeholder.jpg"
+    },
+    {
+      "width": 4928,
+      "height": 3264,
+      "path": "./photos/Lifestyle/DSC_0013.jpg",
+      "compressed_path": "./photos/Lifestyle/DSC_0013.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/DSC_0013.placeholder.jpg"
+    },
+    {
+      "width": 2445,
+      "height": 2445,
+      "path": "./photos/Lifestyle/DSC_9554.jpg",
+      "compressed_path": "./photos/Lifestyle/DSC_9554.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/DSC_9554.placeholder.jpg"
+    }
+  ],
   "Portraits": [
     {
       "width": 1281,
