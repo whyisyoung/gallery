@@ -25,7 +25,7 @@ shuffle: true
 columns: 6
 
 # Integer: Max height for rows
-max_height: 400
+max_height: 250
 
 # Handle
 instagram: whyisyoung
