@@ -1,334 +1,4 @@
 {
-  "B-Architecture": [
-    {
-      "width": 3800,
-      "height": 2533,
-      "path": "./photos/B-Architecture/IMG_3381 2.jpg",
-      "compressed_path": "./photos/B-Architecture/IMG_3381 2.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/IMG_3381 2.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 4928,
-      "path": "./photos/B-Architecture/9.jpg",
-      "compressed_path": "./photos/B-Architecture/9.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/9.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 4928,
-      "path": "./photos/B-Architecture/DSC_2756-Edit.jpg",
-      "compressed_path": "./photos/B-Architecture/DSC_2756-Edit.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/DSC_2756-Edit.placeholder.jpg"
-    },
-    {
-      "width": 3287,
-      "height": 3264,
-      "path": "./photos/B-Architecture/15.jpg",
-      "compressed_path": "./photos/B-Architecture/15.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/15.placeholder.jpg"
-    },
-    {
-      "width": 3240,
-      "height": 2160,
-      "path": "./photos/B-Architecture/17.jpg",
-      "compressed_path": "./photos/B-Architecture/17.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/17.placeholder.jpg"
-    },
-    {
-      "width": 2448,
-      "height": 3264,
-      "path": "./photos/B-Architecture/16.jpg",
-      "compressed_path": "./photos/B-Architecture/16.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/16.placeholder.jpg"
-    },
-    {
-      "width": 678,
-      "height": 1024,
-      "path": "./photos/B-Architecture/12.jpg",
-      "compressed_path": "./photos/B-Architecture/12.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/12.placeholder.jpg"
-    },
-    {
-      "width": 2638,
-      "height": 3298,
-      "path": "./photos/B-Architecture/DSC_4435.jpg",
-      "compressed_path": "./photos/B-Architecture/DSC_4435.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/DSC_4435.placeholder.jpg"
-    },
-    {
-      "width": 3800,
-      "height": 2533,
-      "path": "./photos/B-Architecture/IMG_3382 2.jpg",
-      "compressed_path": "./photos/B-Architecture/IMG_3382 2.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/IMG_3382 2.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 2700,
-      "path": "./photos/B-Architecture/13.jpg",
-      "compressed_path": "./photos/B-Architecture/13.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/13.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 2880,
-      "path": "./photos/B-Architecture/39.jpg",
-      "compressed_path": "./photos/B-Architecture/39.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/39.placeholder.jpg"
-    },
-    {
-      "width": 2700,
-      "height": 3375,
-      "path": "./photos/B-Architecture/11.jpg",
-      "compressed_path": "./photos/B-Architecture/11.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/11.placeholder.jpg"
-    },
-    {
-      "width": 2533,
-      "height": 3800,
-      "path": "./photos/B-Architecture/IMG_3380 2.jpg",
-      "compressed_path": "./photos/B-Architecture/IMG_3380 2.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/IMG_3380 2.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 4928,
-      "path": "./photos/B-Architecture/10.jpg",
-      "compressed_path": "./photos/B-Architecture/10.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/10.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 2880,
-      "path": "./photos/B-Architecture/38.jpg",
-      "compressed_path": "./photos/B-Architecture/38.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/38.placeholder.jpg"
-    },
-    {
-      "width": 3240,
-      "height": 2160,
-      "path": "./photos/B-Architecture/21.jpg",
-      "compressed_path": "./photos/B-Architecture/21.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/21.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 2160,
-      "path": "./photos/B-Architecture/35.jpg",
-      "compressed_path": "./photos/B-Architecture/35.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/35.placeholder.jpg"
-    },
-    {
-      "width": 2880,
-      "height": 2160,
-      "path": "./photos/B-Architecture/34.jpg",
-      "compressed_path": "./photos/B-Architecture/34.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/34.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 3240,
-      "path": "./photos/B-Architecture/20.jpg",
-      "compressed_path": "./photos/B-Architecture/20.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/20.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 2880,
-      "path": "./photos/B-Architecture/36.jpg",
-      "compressed_path": "./photos/B-Architecture/36.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/36.placeholder.jpg"
-    },
-    {
-      "width": 3240,
-      "height": 2160,
-      "path": "./photos/B-Architecture/22.jpg",
-      "compressed_path": "./photos/B-Architecture/22.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/22.placeholder.jpg"
-    },
-    {
-      "width": 2344,
-      "height": 2160,
-      "path": "./photos/B-Architecture/23.jpg",
-      "compressed_path": "./photos/B-Architecture/23.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/23.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 2700,
-      "path": "./photos/B-Architecture/37.jpg",
-      "compressed_path": "./photos/B-Architecture/37.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/37.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 2700,
-      "path": "./photos/B-Architecture/33.jpg",
-      "compressed_path": "./photos/B-Architecture/33.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/33.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 3312,
-      "path": "./photos/B-Architecture/27.jpg",
-      "compressed_path": "./photos/B-Architecture/27.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/27.placeholder.jpg"
-    },
-    {
-      "width": 3261,
-      "height": 2160,
-      "path": "./photos/B-Architecture/26.jpg",
-      "compressed_path": "./photos/B-Architecture/26.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/26.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 2880,
-      "path": "./photos/B-Architecture/32.jpg",
-      "compressed_path": "./photos/B-Architecture/32.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/32.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 3303,
-      "path": "./photos/B-Architecture/18.jpg",
-      "compressed_path": "./photos/B-Architecture/18.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/18.placeholder.jpg"
-    },
-    {
-      "width": 2861,
-      "height": 2160,
-      "path": "./photos/B-Architecture/24.jpg",
-      "compressed_path": "./photos/B-Architecture/24.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/24.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 2700,
-      "path": "./photos/B-Architecture/30.jpg",
-      "compressed_path": "./photos/B-Architecture/30.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/30.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 2880,
-      "path": "./photos/B-Architecture/31.jpg",
-      "compressed_path": "./photos/B-Architecture/31.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/31.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 3261,
-      "path": "./photos/B-Architecture/25.jpg",
-      "compressed_path": "./photos/B-Architecture/25.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/25.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 3261,
-      "path": "./photos/B-Architecture/19.jpg",
-      "compressed_path": "./photos/B-Architecture/19.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/19.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 4928,
-      "path": "./photos/B-Architecture/4.jpg",
-      "compressed_path": "./photos/B-Architecture/4.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/4.placeholder.jpg"
-    },
-    {
-      "width": 4928,
-      "height": 3264,
-      "path": "./photos/B-Architecture/5.jpg",
-      "compressed_path": "./photos/B-Architecture/5.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/5.placeholder.jpg"
-    },
-    {
-      "width": 3240,
-      "height": 2160,
-      "path": "./photos/B-Architecture/7.jpg",
-      "compressed_path": "./photos/B-Architecture/7.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/7.placeholder.jpg"
-    },
-    {
-      "width": 3240,
-      "height": 2160,
-      "path": "./photos/B-Architecture/40.jpg",
-      "compressed_path": "./photos/B-Architecture/40.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/40.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 4338,
-      "path": "./photos/B-Architecture/6.jpg",
-      "compressed_path": "./photos/B-Architecture/6.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/6.placeholder.jpg"
-    },
-    {
-      "width": 2675,
-      "height": 2160,
-      "path": "./photos/B-Architecture/2.jpg",
-      "compressed_path": "./photos/B-Architecture/2.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/2.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 4928,
-      "path": "./photos/B-Architecture/3.jpg",
-      "compressed_path": "./photos/B-Architecture/3.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/3.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 4928,
-      "path": "./photos/B-Architecture/1.jpg",
-      "compressed_path": "./photos/B-Architecture/1.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/B-Architecture/1.placeholder.jpg"
-    }
-  ],
   "A-Portraits": [
     {
       "width": 1281,
@@ -673,6 +343,336 @@
       "compressed_path": "./photos/A-Portraits/DSC_1162-Edit.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/A-Portraits/DSC_1162-Edit.placeholder.jpg"
+    }
+  ],
+  "B-Architecture": [
+    {
+      "width": 3800,
+      "height": 2533,
+      "path": "./photos/B-Architecture/IMG_3381 2.jpg",
+      "compressed_path": "./photos/B-Architecture/IMG_3381 2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/IMG_3381 2.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 4928,
+      "path": "./photos/B-Architecture/9.jpg",
+      "compressed_path": "./photos/B-Architecture/9.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/9.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 4928,
+      "path": "./photos/B-Architecture/DSC_2756-Edit.jpg",
+      "compressed_path": "./photos/B-Architecture/DSC_2756-Edit.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/DSC_2756-Edit.placeholder.jpg"
+    },
+    {
+      "width": 3287,
+      "height": 3264,
+      "path": "./photos/B-Architecture/15.jpg",
+      "compressed_path": "./photos/B-Architecture/15.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/15.placeholder.jpg"
+    },
+    {
+      "width": 3240,
+      "height": 2160,
+      "path": "./photos/B-Architecture/17.jpg",
+      "compressed_path": "./photos/B-Architecture/17.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/17.placeholder.jpg"
+    },
+    {
+      "width": 2448,
+      "height": 3264,
+      "path": "./photos/B-Architecture/16.jpg",
+      "compressed_path": "./photos/B-Architecture/16.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/16.placeholder.jpg"
+    },
+    {
+      "width": 678,
+      "height": 1024,
+      "path": "./photos/B-Architecture/12.jpg",
+      "compressed_path": "./photos/B-Architecture/12.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/12.placeholder.jpg"
+    },
+    {
+      "width": 2638,
+      "height": 3298,
+      "path": "./photos/B-Architecture/DSC_4435.jpg",
+      "compressed_path": "./photos/B-Architecture/DSC_4435.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/DSC_4435.placeholder.jpg"
+    },
+    {
+      "width": 3800,
+      "height": 2533,
+      "path": "./photos/B-Architecture/IMG_3382 2.jpg",
+      "compressed_path": "./photos/B-Architecture/IMG_3382 2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/IMG_3382 2.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 2700,
+      "path": "./photos/B-Architecture/13.jpg",
+      "compressed_path": "./photos/B-Architecture/13.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/13.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 2880,
+      "path": "./photos/B-Architecture/39.jpg",
+      "compressed_path": "./photos/B-Architecture/39.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/39.placeholder.jpg"
+    },
+    {
+      "width": 2700,
+      "height": 3375,
+      "path": "./photos/B-Architecture/11.jpg",
+      "compressed_path": "./photos/B-Architecture/11.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/11.placeholder.jpg"
+    },
+    {
+      "width": 2533,
+      "height": 3800,
+      "path": "./photos/B-Architecture/IMG_3380 2.jpg",
+      "compressed_path": "./photos/B-Architecture/IMG_3380 2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/IMG_3380 2.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 4928,
+      "path": "./photos/B-Architecture/10.jpg",
+      "compressed_path": "./photos/B-Architecture/10.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/10.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 2880,
+      "path": "./photos/B-Architecture/38.jpg",
+      "compressed_path": "./photos/B-Architecture/38.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/38.placeholder.jpg"
+    },
+    {
+      "width": 3240,
+      "height": 2160,
+      "path": "./photos/B-Architecture/21.jpg",
+      "compressed_path": "./photos/B-Architecture/21.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/21.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 2160,
+      "path": "./photos/B-Architecture/35.jpg",
+      "compressed_path": "./photos/B-Architecture/35.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/35.placeholder.jpg"
+    },
+    {
+      "width": 2880,
+      "height": 2160,
+      "path": "./photos/B-Architecture/34.jpg",
+      "compressed_path": "./photos/B-Architecture/34.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/34.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3240,
+      "path": "./photos/B-Architecture/20.jpg",
+      "compressed_path": "./photos/B-Architecture/20.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/20.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 2880,
+      "path": "./photos/B-Architecture/36.jpg",
+      "compressed_path": "./photos/B-Architecture/36.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/36.placeholder.jpg"
+    },
+    {
+      "width": 3240,
+      "height": 2160,
+      "path": "./photos/B-Architecture/22.jpg",
+      "compressed_path": "./photos/B-Architecture/22.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/22.placeholder.jpg"
+    },
+    {
+      "width": 2344,
+      "height": 2160,
+      "path": "./photos/B-Architecture/23.jpg",
+      "compressed_path": "./photos/B-Architecture/23.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/23.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 2700,
+      "path": "./photos/B-Architecture/37.jpg",
+      "compressed_path": "./photos/B-Architecture/37.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/37.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 2700,
+      "path": "./photos/B-Architecture/33.jpg",
+      "compressed_path": "./photos/B-Architecture/33.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/33.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3312,
+      "path": "./photos/B-Architecture/27.jpg",
+      "compressed_path": "./photos/B-Architecture/27.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/27.placeholder.jpg"
+    },
+    {
+      "width": 3261,
+      "height": 2160,
+      "path": "./photos/B-Architecture/26.jpg",
+      "compressed_path": "./photos/B-Architecture/26.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/26.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 2880,
+      "path": "./photos/B-Architecture/32.jpg",
+      "compressed_path": "./photos/B-Architecture/32.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/32.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3303,
+      "path": "./photos/B-Architecture/18.jpg",
+      "compressed_path": "./photos/B-Architecture/18.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/18.placeholder.jpg"
+    },
+    {
+      "width": 2861,
+      "height": 2160,
+      "path": "./photos/B-Architecture/24.jpg",
+      "compressed_path": "./photos/B-Architecture/24.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/24.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 2700,
+      "path": "./photos/B-Architecture/30.jpg",
+      "compressed_path": "./photos/B-Architecture/30.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/30.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 2880,
+      "path": "./photos/B-Architecture/31.jpg",
+      "compressed_path": "./photos/B-Architecture/31.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/31.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3261,
+      "path": "./photos/B-Architecture/25.jpg",
+      "compressed_path": "./photos/B-Architecture/25.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/25.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3261,
+      "path": "./photos/B-Architecture/19.jpg",
+      "compressed_path": "./photos/B-Architecture/19.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/19.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 4928,
+      "path": "./photos/B-Architecture/4.jpg",
+      "compressed_path": "./photos/B-Architecture/4.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/4.placeholder.jpg"
+    },
+    {
+      "width": 4928,
+      "height": 3264,
+      "path": "./photos/B-Architecture/5.jpg",
+      "compressed_path": "./photos/B-Architecture/5.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/5.placeholder.jpg"
+    },
+    {
+      "width": 3240,
+      "height": 2160,
+      "path": "./photos/B-Architecture/7.jpg",
+      "compressed_path": "./photos/B-Architecture/7.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/7.placeholder.jpg"
+    },
+    {
+      "width": 3240,
+      "height": 2160,
+      "path": "./photos/B-Architecture/40.jpg",
+      "compressed_path": "./photos/B-Architecture/40.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/40.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 4338,
+      "path": "./photos/B-Architecture/6.jpg",
+      "compressed_path": "./photos/B-Architecture/6.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/6.placeholder.jpg"
+    },
+    {
+      "width": 2675,
+      "height": 2160,
+      "path": "./photos/B-Architecture/2.jpg",
+      "compressed_path": "./photos/B-Architecture/2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/2.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 4928,
+      "path": "./photos/B-Architecture/3.jpg",
+      "compressed_path": "./photos/B-Architecture/3.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/3.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 4928,
+      "path": "./photos/B-Architecture/1.jpg",
+      "compressed_path": "./photos/B-Architecture/1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/B-Architecture/1.placeholder.jpg"
     }
   ],
   "C-Lifestyle": [
