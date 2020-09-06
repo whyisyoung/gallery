@@ -3,10 +3,10 @@
 #############################
 
 # The title that appears on the tab
-title: Whyisyoung's Portfolio
+title: Limin Yang's Portfolio
 
 # The title on the web page
-full_name: Liam Yang (@Whyisyoung)
+full_name: Limin Yang (@Whyisyoung)
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -36,13 +36,13 @@ instagram: whyisyoung
 ######################
 #
 # Name of your gallery (this will show up at the top of your page and in the RSS feed)
-name: Whyisyoung's Portfolio
+name: Limin Yang's Portfolio
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: Photography Portfolio
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Liam Yang
+author: Limin Yang
 
 # Your email if you want it to be linked on the contact page
 author_email: whyisyoung.foto@gmail.com
