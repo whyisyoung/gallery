@@ -27,6 +27,7 @@ A visual portfolio generator with web hosting for your mockups and photo albums.
 
 - Open the folder in finder and **double click** `setup.command`. This will go through all of your albums and create a `config.json` file for you. This file allows the generator to know which photos will be hosted on your website.✨
 - Personalize the contents at the bottom of `_config.yml`.
+- **Change the order of each folder inside `config.json`**.
 - Commit all of your changes and then push all of your changes to Github by running
 ```
 $ git checkout -B gh-pages  # This creates a branch that will be hosted at {username}.github.io/gallery
