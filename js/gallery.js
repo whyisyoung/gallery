@@ -58,7 +58,6 @@ class Renderer {
     image.style.marginBottom = spacing;
     image.onload = onImageLoad;
     // image.setAttribute("data-action", "zoom");
-    // image.setAttribute("data-action", "[data-zoomable]");
 
     if (photo.isCompressed()) {
       // Lazy loading + a compressed image
@@ -119,7 +118,6 @@ class VerticalRenderer extends Renderer {
       for (var j = 0; j < stacks[i].length; j++) {
         let photoElement = this.createPhotoElement(stacks[i][j], width, config);
         // photoElement.setAttribute("data-action", "zoom");
-        // photoElement.setAttribute("data-action", "[data-zoomable]");
         column.appendChild(photoElement);
       }
       column.style.width = px(width);
@@ -223,7 +221,6 @@ class SquareRenderer extends Renderer {
       image.style.height = px(height);
       image.style.display = 'inline-block';
       // image.setAttribute("data-action", "zoom");
-      // image.setAttribute("data-action", "[data-zoomable]");
       if (photo.isCompressed()) {
         image.setAttribute("data-original", photo.originalSrc());
       }
