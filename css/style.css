@@ -92,8 +92,3 @@ a:hover {
   letter-spacing: 2px;
   line-height: 18px;
 }
-
-
-.medium-zoom-image--opened { 
-  object-fit: contain; 
-}
