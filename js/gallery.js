@@ -2,7 +2,6 @@
  * Config file. Contains all of the options for laying out the photos, as well
  * as the albums and photo metadata.
  */
- import mediumZoom from 'medium-zoom'
 
 class Config {
   constructor(config, opts) {
@@ -411,5 +410,3 @@ function onImageLoad() {
 function px(size) {
   return size + 'px';
 }
-
-mediumZoom('img', {margin: 48})
