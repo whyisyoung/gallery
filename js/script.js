@@ -16,7 +16,8 @@ function reqListener() {
   var config = new Config(JSON.parse(this.responseText), configuration);
   renderer.render(config);
   lazyload();
-  mediumZoom("img", { margin: 48 });
+  // mediumZoom("img", { margin: 48, background: '#ffffff00'});
+  mediumZoom("img", { margin: 24});
 }
 
 
