@@ -2,6 +2,8 @@
  * Config file. Contains all of the options for laying out the photos, as well
  * as the albums and photo metadata.
  */
+ import mediumZoom from 'medium-zoom'
+
 class Config {
   constructor(config, opts) {
     this.data = config;
@@ -56,7 +58,8 @@ class Renderer {
     image.style.height = height;
     image.style.marginBottom = spacing;
     image.onload = onImageLoad;
-    image.setAttribute("data-action", "zoom");
+    // image.setAttribute("data-action", "zoom");
+    // image.setAttribute("data-action", "[data-zoomable]");
 
     if (photo.isCompressed()) {
       // Lazy loading + a compressed image
@@ -116,7 +119,8 @@ class VerticalRenderer extends Renderer {
       var column = document.createElement('div');
       for (var j = 0; j < stacks[i].length; j++) {
         let photoElement = this.createPhotoElement(stacks[i][j], width, config);
-        photoElement.setAttribute("data-action", "zoom");
+        // photoElement.setAttribute("data-action", "zoom");
+        // photoElement.setAttribute("data-action", "[data-zoomable]");
         column.appendChild(photoElement);
       }
       column.style.width = px(width);
@@ -219,7 +223,8 @@ class SquareRenderer extends Renderer {
       image.style.width = px(height); // Square photo
       image.style.height = px(height);
       image.style.display = 'inline-block';
-      image.setAttribute("data-action", "zoom");
+      // image.setAttribute("data-action", "zoom");
+      // image.setAttribute("data-action", "[data-zoomable]");
       if (photo.isCompressed()) {
         image.setAttribute("data-original", photo.originalSrc());
       }
@@ -406,3 +411,5 @@ function onImageLoad() {
 function px(size) {
   return size + 'px';
 }
+
+mediumZoom('img', {margin: 48})
