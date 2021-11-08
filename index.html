@@ -53,7 +53,7 @@
   <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-beta.2/lazyload.js"></script>
   <script src="js/transition.js"></script>
   <!-- <script src="js/zoom.min.js"></script>-->
-  <script src="js/medium-zoom.min.js"></script> 
+  <!-- <script src="js/medium-zoom.min.js"></script>  -->
   <script src="js/gallery.js"></script>
   <script>
     var COLUMNS = 'columns';
@@ -74,5 +74,9 @@
     };
   </script>
   <script src="js/script.js"></script>
-  <script src="js/index.js"></script>
+  <!-- <script src="js/index.js"></script> -->
+  <script src="node_modules/medium-zoom/dist/medium-zoom.min.js"></script>
+  <script>
+    mediumZoom("img", { margin: 48 });
+  </script>
 </html>
