@@ -17,7 +17,7 @@ function reqListener() {
   renderer.render(config);
   lazyload();
   // mediumZoom("img", { margin: 48, background: '#ffffff00'});
-  mediumZoom("img");
+  mediumZoom("img", { margin: 48});
   const addCSS = s => document.head.appendChild(document.createElement("style")).innerHTML=s;
   addCSS(".medium-zoom-image--opened { object-fit: contain;}")
 }
